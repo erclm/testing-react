@@ -2,7 +2,7 @@ import "./styles.css";
 import Amplify, { apple, leet } from "./myExports";
 export default function App() {
   console.log(apple);
-  console.log(Amplify);
+  console.log(leet);
   console.log(Amplify());
   return (
     <div className="App">
